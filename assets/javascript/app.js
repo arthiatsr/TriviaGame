@@ -50,6 +50,7 @@ var questions = [{
               if(q1[i].checked){
                   
                   z.push(q1[i].value);
+                  
                 //  x = z.toString;
                   console.log("i am z",z);
                 }
